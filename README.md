@@ -141,14 +141,21 @@ Stream Deck, retour automatique après une mise en veille.
 Windows 10/11 64 bits. L'exécutable n'est pas encore signé : si Windows affiche « Windows a protégé votre
 ordinateur », cliquez sur *Informations complémentaires* → *Exécuter quand même*.
 
+### Désinstaller
+
+Paramètres Windows → Applications → RichDiscord → Désinstaller. Le désinstalleur retire aussi le lancement
+au démarrage, les liens `richdiscord://`, le cache des mises à jour, puis **vous demande** s'il faut effacer
+vos profils et réglages (Non = vous les retrouvez en réinstallant).
+Version portable : supprimez l'exe, et le dossier `%APPDATA%\RichDiscord` si vous voulez tout effacer.
+
 <details>
 <summary>Empreintes SHA-256 de la 1.4.0</summary>
 
 ```
-5ae8fd1e15f518c89d40a7abacc81742b10601fbc1e67c538cb31539088901d3  RichDiscord-Setup-1.4.0.exe
-46a41ce809a755124caa84b7a28780c5ef2d56febed3d65013fea44f47527205  RichDiscord-Portable-1.4.0.exe
-6bf3ef48e6fbca377ee78ec6bd803f0616c832fe04562a9106308974ef6f1197  RichDiscord-Setup-1.4.0.exe.blockmap
-b2676a1f00435b674178fc38e84910b03b33ef5d1e96aaf4d5b9480e85783ef3  latest.yml
+9c4a13373f6882479f8ba159dcf58bc878c7535e1b94601e1610a8082f27b4cf  RichDiscord-Setup-1.4.0.exe
+fcc914f63d1cc8e1bf9040bb2254812ebd58ae69edc0f31cb9c838b7f818a121  RichDiscord-Portable-1.4.0.exe
+4e913c1cc9681e41ee7b19cdb14b79ec26576e97d17f7a192e6ccabf79139e96  RichDiscord-Setup-1.4.0.exe.blockmap
+5122f973b6da9391150c715aaca767c4b82156e8d792d9f759fa2ac3f41f2f02  latest.yml
 ```
 </details>
 
