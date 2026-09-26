@@ -38,8 +38,7 @@ L'aperçu à droite montre la carte **exactement comme Discord l'affichera**, av
 
 1. **Cherchez votre jeu** : parmi plus de 24 000 jeux reconnus par Discord, les plus joués en premier.
    Les fautes et les sigles passent (« gta 5 », « lol », « cs2 »).
-2. **Écrivez votre message**, ou laissez l'**IA** proposer textes, chrono et groupe. Elle s'appuie sur la vraie
-   description du jeu (Steam, Wikipédia) au lieu d'inventer ; relancez jusqu'à ce que ça vous plaise.
+2. **Écrivez votre message** (en panne d'idée ? un bouton vous en propose une).
 3. **Afficher sur Discord**. C'est tout.
 
 <p align="center"><img src="docs/04-recherche.png" alt="Recherche par sigle « gta 5 »" width="900"></p>
@@ -140,7 +139,6 @@ Stream Deck, retour automatique après une mise en veille. Un guide pas à pas e
 - Passe par la fonction officielle de Discord de bureau : **pas de selfbot, pas de jeton de compte**, aucun
   risque de bannissement lié à l'app
 - Modèles, historique et statistiques restent **sur votre PC** ; pas de télémétrie
-- L'IA ne reçoit que le nom du jeu, jamais vos textes
 - Télécommande désactivée par défaut, chiffrée de bout en bout, révocable en un clic
 - Mises à jour intégrées, vérifiées par empreinte, **installées seulement quand vous le décidez**
 
