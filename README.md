@@ -153,6 +153,7 @@ Stream Deck, retour automatique après une mise en veille. Un guide pas à pas e
 
 Windows 10/11 64 bits. L'exécutable n'est pas encore signé : si Windows affiche « Windows a protégé votre
 ordinateur », cliquez sur *Informations complémentaires* → *Exécuter quand même*.
+L'installateur de la 1.4.1 a été analysé par **[VirusTotal](https://www.virustotal.com/gui/file/70c46f5fcc54f9bc5221a8cdf4a9f2ec87ea34f1b8d9074df90a7d255165842a)** : consultez le rapport complet.
 
 Vous aviez RichDiscord ? Installez IRP par-dessus : vos modèles, groupes et réglages sont conservés.
 
