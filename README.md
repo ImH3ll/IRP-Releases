@@ -164,14 +164,14 @@ démarrage, le cache des mises à jour, puis **vous demande** s'il faut effacer 
 Version portable : supprimez l'exe, et le dossier `%APPDATA%\RichDiscord` si vous voulez tout effacer.
 
 <details>
-<summary>Empreintes SHA-256 de la 1.4.0</summary>
+<summary>Empreintes SHA-256 de la 1.4.1</summary>
 
 ```
-37aea1b25f0adcd4133312bd37ad1bc96aed3c8b4c25d584b5d9600fc0f8564d  IRP-Setup-1.4.0.exe
-ee533031e872cb442974bb7161fb184499907c41626d3a9d257a0e0d1dd53fa3  IRP-Portable-1.4.0.exe
-5f14ef139059564b03185395a308f55601ba5264e10aa4c3179f9338d324ca41  IRP-Setup-1.4.0.exe.blockmap
-c0a9107eb55b52a60c91df64363e3b7e94d9eee1ba488fd77da5772867d7f347  latest.yml
-cc5ef16fc7a076bde7f29daef4f9868ffa59905693be293f5fe99e45248af026  IRP-Extension-1.4.0.zip
+70c46f5fcc54f9bc5221a8cdf4a9f2ec87ea34f1b8d9074df90a7d255165842a  IRP-Setup-1.4.1.exe
+269fbb91b8a28197cd633334e9edb9567207fc79ce084ef6abfc084540e61b00  IRP-Portable-1.4.1.exe
+2f2bd87169570847851a807392295633c4ba6a953aa19bdfa2c702fc10bc9e42  IRP-Setup-1.4.1.exe.blockmap
+5898089922e809ef452973d15e823002e3045bdb50988aa46d1de9ad2921e91f  latest.yml
+cc5ef16fc7a076bde7f29daef4f9868ffa59905693be293f5fe99e45248af026  IRP-Extension-1.4.1.zip
 ```
 </details>
 
