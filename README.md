@@ -156,11 +156,6 @@ ordinateur », cliquez sur *Informations complémentaires* → *Exécuter quand 
 
 Vous aviez RichDiscord ? Installez IRP par-dessus : vos modèles, groupes et réglages sont conservés.
 
-### Extension de navigateur (facultatif)
-
-Téléchargez **`IRP-Extension-x.y.z.zip`** sur la même page, décompressez-le, puis suivez le guide intégré :
-Paramètres → Intégrations avancées → *Comment ça marche ?*
-
 ### Désinstaller
 
 Paramètres Windows → Applications → IRP → Désinstaller. Le désinstalleur retire aussi le lancement au
