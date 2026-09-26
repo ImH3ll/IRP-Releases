@@ -1,49 +1,67 @@
 <p align="center">
-  <img src="docs/01-atelier.png" alt="L'atelier de RichDiscord" width="900">
+  <img src="docs/logo.png" alt="Logo IRP" width="180">
 </p>
 
-<h1 align="center">RichDiscord</h1>
+<h1 align="center">IRP — ImH3ll Rich Presence</h1>
 
 <p align="center">
   <b>Composez votre statut Discord comme vous l'imaginez — et pilotez-le depuis votre téléphone.</b><br>
-  Jeux, musique, séries, travail : une présence riche, animée et automatique, sans ligne de code.
+  Jeux, séries, musique, travail : une présence riche, animée et automatique, sans ligne de code.
 </p>
 
 <p align="center">
-  <a href="https://github.com/ImH3ll/RichDiscord-Releases/releases/latest/download/RichDiscord-Setup-1.4.0.exe"><b>⬇️ Télécharger pour Windows</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/ImH3ll/RichDiscord-Releases/releases/latest/download/RichDiscord-Portable-1.4.0.exe">Version portable</a>
+  <a href="https://github.com/ImH3ll/IRP-Releases/releases/latest"><b>⬇️ Télécharger pour Windows</b></a>
+  &nbsp;·&nbsp; gratuit &nbsp;·&nbsp; Windows 10/11 &nbsp;·&nbsp; <i>anciennement RichDiscord</i>
+</p>
+
+<p align="center">
+  <img src="docs/00-mode-simple.png" alt="La fenêtre d'IRP en mode simple" width="900">
 </p>
 
 ---
 
 ## Ce que voient vos amis
 
-RichDiscord remplit la carte « Joue à… » de votre profil Discord avec **ce que vous voulez** : le jeu,
-deux lignes de texte, une image, un chrono, la taille de votre groupe et jusqu'à deux boutons cliquables.
+IRP remplit la carte « Joue à… » de votre profil Discord avec **ce que vous voulez** : le jeu, deux lignes
+de texte, une image, un chrono, la taille de votre groupe et jusqu'à deux boutons cliquables.
 
 > **VALORANT**
 > Classée · Immortel 2
 > En duo (2 sur 5) · 23:00 écoulé
 > [ Voir mon profil ]
 
-L'aperçu à droite de l'atelier montre la carte **exactement comme Discord l'affichera**, avant l'envoi.
+L'aperçu à droite montre la carte **exactement comme Discord l'affichera**, avant l'envoi.
+
+---
+
+## ✨ En trois gestes
+
+1. **Cherchez votre jeu** : parmi plus de 24 000 jeux reconnus par Discord, les plus joués en premier.
+   Les fautes et les sigles passent (« gta 5 », « lol », « cs2 »).
+2. **Écrivez votre message**, ou laissez l'**IA** proposer textes, chrono et groupe. Elle s'appuie sur la vraie
+   description du jeu (Steam, Wikipédia) au lieu d'inventer ; relancez jusqu'à ce que ça vous plaise.
+3. **Afficher sur Discord**. C'est tout.
+
+<p align="center"><img src="docs/04-recherche.png" alt="Recherche par sigle « gta 5 »" width="900"></p>
 
 ---
 
 ## 🎮 Plusieurs présences à la fois
 
-Affichez un jeu **et** ce que vous regardez **et** votre musique, en même temps. Chaque présence a son
-propre éditeur ; un double-clic dans la liste l'affiche ou la retire, un clic droit ouvre ses actions.
+Affichez un jeu **et** ce que vous regardez **et** votre musique, en même temps. Chaque présence a son propre
+éditeur ; glissez-les dans la liste pour choisir leur ordre, double-cliquez pour les afficher ou les retirer.
 « Tout envoyer » publie tout d'un coup.
 
 <p align="center"><img src="docs/07-activite.png" alt="Plusieurs présences affichées en même temps, et le temps passé" width="900"></p>
+
+> Discord montre aux autres **les 5 premières présences envoyées** (vous en voyez jusqu'à 99 sur votre
+> profil) : IRP marque les suivantes « toi seul », pour que vous sachiez toujours ce que voient vos amis.
 
 ---
 
 ## 📱 La télécommande : votre statut depuis le téléphone
 
-Paramètres → **Télécommande** → scannez le QR code avec l'appareil photo. C'est tout : **rien à installer**.
+Paramètres → **Télécommande** → scannez le QR code avec l'appareil photo. **Rien à installer.**
 
 <table>
 <tr>
@@ -52,28 +70,29 @@ Paramètres → **Télécommande** → scannez le QR code avec l'appareil photo.
 </tr>
 </table>
 
-- Choisissez un modèle d'un doigt : il s'affiche sur Discord dans la seconde
 - Affichez ou retirez chaque présence, ou tout d'un coup
+- Envoyez un **groupe** de présences d'un seul doigt, réordonnez-les en les faisant glisser
 - **À la maison comme en 4G/5G**
 - **Chiffré de bout en bout** : la clé ne quitte jamais le QR code, le relais ne voit rien passer
 - Ajoutez la page à l'écran d'accueil : elle se comporte comme une app
 
-*Exemple : vous quittez le PC pour la soirée → sur le téléphone, « Tout retirer ». Vous lancez une partie
-chez un ami → touchez « VALORANT ».*
-
 ---
 
-## ✏️ Un atelier simple et complet
+## 🧭 Simple par défaut, complet quand vous voulez
 
-Quatre onglets, rien de caché : **Présence**, **Image et chrono**, **Boutons et liens**, **Avancé**.
-Choisir « Écoute », « Regarde » ou « Participe à » se fait d'un clic ; un point rouge signale l'onglet à corriger.
+IRP s'ouvre en **mode simple** : le jeu, le message, l'image, le chrono. Tout le reste attend dans le
+**mode avancé** (Paramètres → Affichage) :
 
-<p align="center"><img src="docs/02-image-chrono.png" alt="Onglet Image et chrono" width="900"></p>
+<p align="center"><img src="docs/01-atelier.png" alt="L'atelier en mode avancé" width="900"></p>
 
 - **Images** : depuis le PC, créées par IA, déjà utilisées, ou celles de l'application en un clic
 - **Chrono** : temps écoulé, compte à rebours, ou barre de progression comme Spotify
-- **Rotation** : écrivez plusieurs lignes, elles défilent toutes seules sur Discord
+- **Boutons et liens cliquables** sur les textes et les images
+- **Rotation** : plusieurs lignes qui défilent, chacune avec sa durée (`❤️ {10s}` en fin de ligne) ; images
+  et liens peuvent tourner aussi
 - **Annuler / Rétablir** (Ctrl+Z) et retour à la version affichée sur Discord
+
+<p align="center"><img src="docs/02-image-chrono.png" alt="Onglet Image et chrono" width="900"></p>
 
 ### Des textes vivants avec les variables
 
@@ -89,17 +108,10 @@ Le bouton **{ }** insère une variable, remplacée à chaque envoi :
 | `♪ {titre} — {artiste}` | ♪ Blinding Lights — The Weeknd |
 | `Score : {fichier:score}` | Score : 12 - 4 *(lu dans un fichier, pour OBS ou un jeu)* |
 
----
+### Vos modèles et vos groupes
 
-## 🔎 Plus de 24 000 jeux et 1 272 services
-
-La recherche connaît tous les jeux reconnus par Discord **et** les sites du quotidien : Spotify, Netflix,
-YouTube, Twitch, Disney+… Elle pardonne les fautes (« netflx » trouve Netflix) et règle le bon verbe.
-
-<p align="center"><img src="docs/04-recherche.png" alt="Recherche tolérante aux fautes" width="900"></p>
-
-Et une cinquantaine de **modèles prêts à l'emploi**, à mettre en favori, renommer, dupliquer ou partager
-par un simple code :
+Enregistrez une présence comme **modèle**, ou tout un ensemble comme **groupe** : un clic pour les
+retrouver, à mettre en favori, renommer, dupliquer ou partager par un simple code.
 
 <p align="center"><img src="docs/05-modeles.png" alt="Choisir un modèle" width="900"></p>
 
@@ -118,15 +130,17 @@ par un simple code :
 | **Rotation de profils** | VALORANT ×3, Minecraft ×1 → changement toutes les 5 minutes |
 
 Et aussi : **musique en cours** détectée sous Windows (Spotify, navigateurs, Apple Music…) avec pochette et
-vraie progression, **extension navigateur** pour YouTube et Twitch, **liens `richdiscord://`** pour un
-Stream Deck, retour automatique après une mise en veille.
+vraie progression, **extension de navigateur** pour YouTube et Twitch, **liens `richdiscord://`** pour un
+Stream Deck, retour automatique après une mise en veille. Un guide pas à pas est intégré dans les Paramètres.
 
 ---
 
 ## 🔒 Respect de votre compte et de votre vie privée
 
-- Passe par la fonction officielle de Discord de bureau : **pas de selfbot, pas de jeton de compte**, aucun risque de bannissement lié à l'app
-- Profils, historique et statistiques restent **sur votre PC** ; pas de télémétrie
+- Passe par la fonction officielle de Discord de bureau : **pas de selfbot, pas de jeton de compte**, aucun
+  risque de bannissement lié à l'app
+- Modèles, historique et statistiques restent **sur votre PC** ; pas de télémétrie
+- L'IA ne reçoit que le nom du jeu, jamais vos textes
 - Télécommande désactivée par défaut, chiffrée de bout en bout, révocable en un clic
 - Mises à jour intégrées, vérifiées par empreinte, **installées seulement quand vous le décidez**
 
@@ -134,29 +148,41 @@ Stream Deck, retour automatique après une mise en veille.
 
 ## ⬇️ Installer
 
-1. Téléchargez **[RichDiscord-Setup-1.4.0.exe](https://github.com/ImH3ll/RichDiscord-Releases/releases/latest/download/RichDiscord-Setup-1.4.0.exe)** et lancez-le.
+1. Sur la **[page des versions](https://github.com/ImH3ll/IRP-Releases/releases/latest)**, téléchargez
+   **`IRP-Setup-x.y.z.exe`** et lancez-le (ou **`IRP-Portable-x.y.z.exe`** pour une version sans installation).
 2. Ouvrez **Discord de bureau** (l'appli, pas le navigateur).
-3. Choisissez un modèle, personnalisez-le, cliquez sur **Afficher sur Discord**.
+3. Cherchez votre jeu, écrivez votre message, cliquez sur **Afficher sur Discord**.
 
 Windows 10/11 64 bits. L'exécutable n'est pas encore signé : si Windows affiche « Windows a protégé votre
 ordinateur », cliquez sur *Informations complémentaires* → *Exécuter quand même*.
 
+Vous aviez RichDiscord ? Installez IRP par-dessus : vos modèles, groupes et réglages sont conservés.
+
+### Extension de navigateur (facultatif)
+
+Téléchargez **`IRP-Extension-x.y.z.zip`** sur la même page, décompressez-le, puis suivez le guide intégré :
+Paramètres → Intégrations avancées → *Comment ça marche ?*
+
 ### Désinstaller
 
-Paramètres Windows → Applications → RichDiscord → Désinstaller. Le désinstalleur retire aussi le lancement
-au démarrage, les liens `richdiscord://`, le cache des mises à jour, puis **vous demande** s'il faut effacer
-vos profils et réglages (Non = vous les retrouvez en réinstallant).
+Paramètres Windows → Applications → IRP → Désinstaller. Le désinstalleur retire aussi le lancement au
+démarrage, le cache des mises à jour, puis **vous demande** s'il faut effacer vos modèles et réglages
+(Non = vous les retrouvez en réinstallant).
 Version portable : supprimez l'exe, et le dossier `%APPDATA%\RichDiscord` si vous voulez tout effacer.
 
 <details>
 <summary>Empreintes SHA-256 de la 1.4.0</summary>
 
 ```
-9c4a13373f6882479f8ba159dcf58bc878c7535e1b94601e1610a8082f27b4cf  RichDiscord-Setup-1.4.0.exe
-fcc914f63d1cc8e1bf9040bb2254812ebd58ae69edc0f31cb9c838b7f818a121  RichDiscord-Portable-1.4.0.exe
-4e913c1cc9681e41ee7b19cdb14b79ec26576e97d17f7a192e6ccabf79139e96  RichDiscord-Setup-1.4.0.exe.blockmap
-5122f973b6da9391150c715aaca767c4b82156e8d792d9f759fa2ac3f41f2f02  latest.yml
+37aea1b25f0adcd4133312bd37ad1bc96aed3c8b4c25d584b5d9600fc0f8564d  IRP-Setup-1.4.0.exe
+ee533031e872cb442974bb7161fb184499907c41626d3a9d257a0e0d1dd53fa3  IRP-Portable-1.4.0.exe
+5f14ef139059564b03185395a308f55601ba5264e10aa4c3179f9338d324ca41  IRP-Setup-1.4.0.exe.blockmap
+c0a9107eb55b52a60c91df64363e3b7e94d9eee1ba488fd77da5772867d7f347  latest.yml
+cc5ef16fc7a076bde7f29daef4f9868ffa59905693be293f5fe99e45248af026  IRP-Extension-1.4.0.zip
 ```
 </details>
 
-<p align="center"><sub>RichDiscord by ImH3ll · Captures réalisées avec des données de démonstration.</sub></p>
+---
+
+<p align="center"><sub>IRP by ImH3ll · © 2026 ImH3ll, tous droits réservés · gratuit pour un usage personnel ·
+projet indépendant, sans affiliation avec Discord · captures réalisées avec des données de démonstration.</sub></p>
