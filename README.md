@@ -49,12 +49,12 @@ L'aperçu à droite montre la carte **exactement comme Discord l'affichera**, av
 
 Affichez un jeu **et** ce que vous regardez **et** votre musique, en même temps. Chaque présence a son propre
 éditeur ; glissez-les dans la liste pour choisir leur ordre, double-cliquez pour les afficher ou les retirer.
-« Tout envoyer » publie tout d'un coup.
+« Tout envoyer » publie tout d'un coup, et votre profil suit l'ordre de la liste, même quand un texte défile.
 
 <p align="center"><img src="docs/07-activite.png" alt="Plusieurs présences affichées en même temps, et le temps passé" width="900"></p>
 
-> Discord montre aux autres **les 5 premières présences envoyées** (vous en voyez jusqu'à 99 sur votre
-> profil) : IRP marque les suivantes « toi seul », pour que vous sachiez toujours ce que voient vos amis.
+> Discord ne montre aux autres que **5 présences** : IRP s'y limite par défaut (jusqu'à 99 en option, visibles
+> par vous seul), et l'aperçu « Moi / Les autres » montre exactement ce que voient vos amis.
 
 ---
 
@@ -163,14 +163,14 @@ démarrage, le cache des mises à jour, puis **vous demande** s'il faut effacer 
 Version portable : supprimez l'exe, et le dossier `%APPDATA%\RichDiscord` si vous voulez tout effacer.
 
 <details>
-<summary>Empreintes SHA-256 de la 1.4.1</summary>
+<summary>Empreintes SHA-256 de la 1.4.2</summary>
 
 ```
-70c46f5fcc54f9bc5221a8cdf4a9f2ec87ea34f1b8d9074df90a7d255165842a  IRP-Setup-1.4.1.exe
-269fbb91b8a28197cd633334e9edb9567207fc79ce084ef6abfc084540e61b00  IRP-Portable-1.4.1.exe
-2f2bd87169570847851a807392295633c4ba6a953aa19bdfa2c702fc10bc9e42  IRP-Setup-1.4.1.exe.blockmap
-5898089922e809ef452973d15e823002e3045bdb50988aa46d1de9ad2921e91f  latest.yml
-cc5ef16fc7a076bde7f29daef4f9868ffa59905693be293f5fe99e45248af026  IRP-Extension-1.4.1.zip
+e06eea7b8cb5e07216716a94e7f59f802dc4ea9a92d3c25220211f99ff60173d  IRP-Setup-1.4.2.exe
+b626509380fa89328d6a6845fd54acea6f960edf63fb37ab5af7b4b643d2dee1  IRP-Portable-1.4.2.exe
+95282931884595922a4c1e9e74f1b6dd0e7b98fc24aa6846816e2b5a4c79a299  IRP-Setup-1.4.2.exe.blockmap
+53f33cf8b2548a990c0b0e3d76eb2c8a192e3fd82dd3d7c347e720d71471d0bf  latest.yml
+cc5ef16fc7a076bde7f29daef4f9868ffa59905693be293f5fe99e45248af026  IRP-Extension-1.4.2.zip
 ```
 </details>
 
