@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/ImH3ll/IRP-Releases/releases/latest"><b>⬇️ Télécharger pour Windows</b></a>
-  &nbsp;·&nbsp; gratuit &nbsp;·&nbsp; Windows 10/11 &nbsp;·&nbsp; <i>anciennement RichDiscord</i>
+  &nbsp;·&nbsp; gratuit &nbsp;·&nbsp; Windows 10/11
 </p>
 
 <p align="center">
